@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ZakatCalculator_Example' do
+  pod 'ZakatCalculator', :path => '../'
+
+  target 'ZakatCalculator_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
