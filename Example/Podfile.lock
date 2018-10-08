@@ -1,0 +1,16 @@
+PODS:
+  - ZakatCalculator (0.1.0)
+
+DEPENDENCIES:
+  - ZakatCalculator (from `../`)
+
+EXTERNAL SOURCES:
+  ZakatCalculator:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZakatCalculator: 70e3d69208b990929f0a1de995c5ae26182cfcee
+
+PODFILE CHECKSUM: be86d884c48e7d2c9cb3722fbe261bfee2b725fb
+
+COCOAPODS: 1.5.3

@@ -1,0 +1,6 @@
+framework module ZakatCalculator {
+  umbrella header "ZakatCalculator-umbrella.h"
+
+  export *
+  module * { export * }
+}
