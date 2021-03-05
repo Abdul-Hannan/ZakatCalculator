@@ -1,6 +1,6 @@
 # ZakatCalculator
 
-This is a dummy project which I used to learn aboutcreating and publishing own ios libraires using Cocoapods
+This is a dummy project which I used to learn about creating and publishing own ios libraires using Cocoapods
 
 
 [![Version](https://img.shields.io/cocoapods/v/ZakatCalculator.svg?style=flat)](https://cocoapods.org/pods/ZakatCalculator)
